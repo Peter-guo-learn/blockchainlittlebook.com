@@ -1,2 +1,2 @@
 * [首页](/)
-* [讨论](https://github.com/xiaolai/blockchainlittlebook.com/issues)
+* [提问](https://github.com/Peter-guo-learn/blockchainlittlebook.com/issues)
