@@ -1,7 +1,5 @@
 # 区块链小白书
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
-
 -----
 
 ## 警告
@@ -22,54 +20,7 @@
 >
 > ……
 
-到了 2019 年，是李笑来在区块链世界里生存的第 9 个年头。这些年来，人们对区块链的误解甚至诋毁现在终于可以烟消云散了 —— 因为区块链技术终于在中国获得了认可与支持。
-
 然而，需要注意的是，区块链技术作为金融互联网新技术，不可避免地与投机（或投资）联系在一起，导致的结果是市场上骗局丛生，行业里鱼龙混杂，所以有必要让民众对区块链有正确且清楚的了解。这就是《区块链小白书》的意义 —— 它就是写给小白的，目的不仅是为了让小白少走弯路，更是为了让小白不要误入歧途。
-
-李笑来，二〇一九年十月，于北京
-
-## 准备工作
-
-### 1. 不要滥用类比
-
-你将要尝试着学习并理解的，是一个前所未有的重大创新，其中有很多你一下子难以理解透彻的概念，很少有人能一下子全都弄明白…… 
-
-在这样的时候，人们会不由自主地抄近路走捷径 —— 滥用类比：
-
-> “哦！ 我明白了，这就好像是……” 
-
-比如，你经常会看到人们挣扎着理解了半天，突然冒出一句：“哦，我懂了，比特币就是电子黄金！” **类比**是约等号（≈），而“**这就是**”是等号（=），约等号和等号之间的差别有时甚至超过十万八千里。 比特币与电子黄金之间的关系甚至干脆就谈不上是约等于…… 全然不是一个东西。
-
-在理解全新事物的时候，滥用类比的危害非常大，因为你压根就找不到什么过往已经存在的东西真的和这个创新竟然一模一样 —— 否则，它也不可能被称为创新了，是不是？
-
-这种不恰当的类比被滥用多次之后，就再也没办法形成正确的理解了 —— 因为理解一个创新需要理解多个前所未有的概念，每个都做了不恰当的类比之后，多次非常不恰当的**约等于**拼接起来之后，无论如何都没办法达到一个与正确理解相近的效果。
-
-请务必注意，每次你的脑子里不由自主地冒出 “这就好像……” 这个念头的时候，你都要把它强压回去。
-
-### 2. 重复重复再重复
-
-遇到暂时无法理解的概念，不要担心、不要纠结、不要停顿，你要做的事情很简单：
-
-> * 继续读下去；
-> * 读完之后再**重复读很多次**……
-
-这是学习任何新知识或者在任何新领域探索的 “必杀技”。这背后有一个重要的原理：
-
-> 绝大多数难以理解的知识，是因为它内部有很多 “前置引用”。
-
-所谓的前置引用，就是一个在后面才能深入理解的概念竟然在此之前已经被引用了，导致的结果是学习者总是处于懵懂的状态。学校里的知识却不是这样的，学校里的知识总是线性层层递进的，理解了前面，就能理解后面…… 关于 “前置引用”，你可以参阅我在《[自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.1.F.deal-with-forward-references.ipynb)》里的阐述。
-
-“硬着头皮读完，而后重复读很多次” 这个策略，就是可以轻松突破 “前置引用” 所设置的障碍。这个技巧，事实上可以用在任何领域。
-
-### 3.借助群智的力量
-
-快速掌握新知识，快速适应新领域，还有个重要的技巧，就是借助群智的力量。事实上，在学校里，你早就应该发现这个技巧了 —— 如果你能跟那些学霸经常聊天，经常玩耍，你就会发现总是在不经意之间，很多重点难点就那样轻而易举地被解决掉了……
-
-这首先因为人是社交动物，然而更为重要的是，交流这个东西，随意的交流总是比刻意的交流更为有效 —— 因为随意的交流总是刻意解决那些连你自己都没意识到的问题…… 可偏偏，这些你自己意识不到的问题恰恰是最重要甚至最关键的问题。如果不借助这种群智的力量，很难想象还有什么办法可以解决这种隐秘的关键问题。
-
-在 [Mixin Messenger](https://mixin.one/messenger) 上，有一个群，群号是 *7000102093*，里面有一万多人 —— 可能是目前国内最优质的小白社群。群里定期有公开课，并且定期会开放聊天机会…… 在那里，你可以向别人提问，也可以观察他人之间的讨论，很多你弄不明白的问题，可能一不小心就彻底被他人的对话解决掉了。
-
-## 比特币
 
 比特币是个前所未有的东西，所以绝大多数人很难清楚地理解它。这一个章节之中，我们会用极为简单的语言尽量做到通俗易懂 —— 并且，尽量不涉及那些晦涩难懂的技术概念。
 
@@ -421,95 +372,4 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > 1. 不要只做期货；
 > 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
-
-
 -----
-
-## 关于本书
-
-本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
-
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
-
-本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
-
-> * 保留原文出处，加上原站链接：https://blockchainlittlebook.com
-> * 如若做出了修改，最好在保留原文的情况下，加上醒目的修改标注。
-
-欢迎各种语言的翻译 —— 请提交 pull request。请将翻译文件放置到相应的目录之中，文件仍然命名为 README.md，比如
-
-> /en/README.md
->
-> /jp/README.md
-
-**你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
-
-在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
-
-![](images/fork1.png)
-
-Fork 完成之后，点开 Settings
-
-![](images/fork2.png)
-
-往下拉，拉到 GitHub Pages 单元，Source 中选择 ```master branch```：
-
-![](images/fork3.png)
-
-而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.net.cn)上购买域名）：
-
-![](images/fork4.png)
-
-你需要在域名服务商的页面中，为自己的域名添加以下 4 条 A 记录和 1 条 CNAME 记录：
-
-> A 记录：
->
-> * 185.199.108.153
-> * 185.199.109.153
-> * 185.199.110.153
-> * 185.199.111.153
->
-> CNAME
->
-> host: www
->
-> Anser: *your-github-username*.github.io
-
-我的设置如下：
-
-![](images/custom-domain.png)
-
-大功告成！几分钟之后，你就可以看到你自己的域名已经生效了，若是你身边有人想要了解区块链，那么你就可以给他属于你自己的链接了。如果需要修改内容，直接在 GitHub 页面里编辑即可……
-
-注意：原仓库会经常更新，所以，你也要将你的 Fork 保持更新：
-
-```bash
-git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
-cd blockchainlittlebook.com
-git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
-git pull upstream master
-git push -u origin master
-```
-
-## 关于作者
-
-李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
-
-### 出版书籍
-
-> * TOEFL 核心词汇 21 天突破
-> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
-> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
-> * 通往财富自由之路
-> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
-> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
-> * [定投改变命运（第三版）](https://onregularinvesting.com)
-
-### 其它
-
-> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
-> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
-> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
-> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
-> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
-> * [区块链小白书](https://blockchainlittlebook.com)
